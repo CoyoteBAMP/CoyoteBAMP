@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Brayan Alexis Mora Paredes 👋
 
-![This is me](https://github.com/CoyoteBAMP/CoyoteBAMP/blob/main/Multimedia.jpg)
+![This is me](https://github.com/CoyoteBAMP/CoyoteBAMP/blob/main/banner3.png)
 ```javascript
 const KeepCoding = {
 code: [
