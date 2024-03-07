@@ -10,7 +10,7 @@ A senior software engineer with more than 5 years of professional experience. I 
 In general, I've worked with monolithic, microservice and serverless architectures. A lot of my activity is open-source.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=CoyoteWorld3&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=CoyoteWorld&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=CoyoteWorld&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/CoyoteWorld/github-readme-stats"><img height=150
