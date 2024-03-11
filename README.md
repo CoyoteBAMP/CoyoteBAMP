@@ -3,11 +3,8 @@
 
 ![This is me](https://github.com/CoyoteBAMP/CoyoteBAMP/blob/main/banner3.png)
 
-![This is me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   ![This is me](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-
-A senior software engineer with more than 5 years of professional experience. I have excellent knowledge of backend Java development.
-In general, I've worked with monolithic, microservice and serverless architectures. A lot of my activity is open-source.
+Un estudiante de la Ingeniería en Tecnologías de la Información y Comunicaciones en el Instituto tecnológico de Apizaco 
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=CoyoteBAMP&show_icons=true&count_private=true"><img
@@ -21,8 +18,8 @@ In general, I've worked with monolithic, microservice and serverless architectur
    <a href="https://www.linkedin.com/in/romankh3/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   <a href="mailto:bampalexis22@gmail.com">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
