@@ -50,9 +50,9 @@ In general, I've worked with monolithic, microservice and serverless architectur
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
+   <a href="https://github.com/CoyoteBAMP/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=CoyoteBAMP&color=DE002D">
+   </a
 </div>
 ```javascript
 const KeepCoding = {
