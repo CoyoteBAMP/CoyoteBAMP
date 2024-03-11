@@ -1,5 +1,5 @@
-### Hi there 👋
-### Brayan Alexis Mora Paredes 👋
+### Hola 👋
+### Mi nombre es Brayan Alexis Mora Paredes 👋
 
 ![This is me](https://github.com/CoyoteBAMP/CoyoteBAMP/blob/main/banner3.png)
 
